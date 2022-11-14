@@ -1,0 +1,13 @@
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.divider {
+    flex-grow: 1;
+}
